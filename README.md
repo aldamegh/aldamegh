@@ -12,7 +12,7 @@ For our team graduation project, I cleaned the Arabic data collected by my teamm
 
 | Project | Focus | Available here |
 | --- | --- | --- |
-| [Syaq](https://syaq.online/) | Arabic semantic guessing game | Live game |
+| [Syaq](https://github.com/aldamegh/syaq) | My Arabic semantic guessing game | Selected source excerpt · [Live game](https://syaq.online/) |
 | [The Turing Test Revisited](https://github.com/aldamegh/turing-test-revisited) | Team graduation project exploring human vs. AI-generated text classification | My Arabic experiment: preprocessing and model training; no shared datasets or reports |
 
 ### Tools I use
