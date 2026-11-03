@@ -6,7 +6,7 @@ DevOps & Cloud Engineer · Computer Science graduate, King Saud University
 
 I work with Linux, Docker, Kubernetes, and CI/CD, with interests in cloud infrastructure, software testing, and Arabic NLP.
 
-في مشروع التخرج الجماعي، تولّيت تنظيف البيانات العربية التي جمعها الزملاء وتدريب النموذج العربي. يعرض مستودع المشروع تجربتي العربية فقط، مع الحفاظ على خصوصية البيانات والعمل المشترك.
+في مشروع التخرج الجماعي، تولّيت تنظيف البيانات العربية التي جمعها الزملاء وتدريب النموذج العربي. يعرض مستودع المشروع تجربتي في تدريب النماذج اللغوية العربية(LLM).
 
 ### Projects
 
